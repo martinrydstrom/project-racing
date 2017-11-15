@@ -8,7 +8,7 @@ public class Enemys extends Figure{
     public Enemys(String fileName, float x, float y, float size){
         super(fileName, x, y, size);
     }
-
+Hi
     public int getSpeedX() {
         return speedX;
     }
